@@ -1,0 +1,18 @@
+ .first{
+    width: 200px;
+    height: 200px;
+    background-color: brown;
+    margin: 0px 0px 50px 50px;
+    padding: 20px 20px 0px 20px;
+    border-radius: 20px 20px 20px 20px;
+    color: white;
+ }
+  .second{
+      width: 200px;
+     height: 200px;
+     background-color: brown;
+     margin: 0px 0px 50px 50px;
+     padding: 20px 20px 0px 20px;
+     border-radius: 20px 20px 20px 20px;
+     color: white; 
+  }
